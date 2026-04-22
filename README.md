@@ -1,1 +1,1 @@
-# mlops-Pr-1
+Predicts film's global revenue using Linear Regression
